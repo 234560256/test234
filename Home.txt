@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-04T00:19:08+01:00
+
+====== Home ======
+Created Samstag 04 Februar 2017
+
+,nmb,mnm
+
+,bmnbnmbnm
+
